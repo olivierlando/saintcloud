@@ -4,7 +4,7 @@
   "description": "A CLI tool with utilities for google cloud platform",
   "main": "lib/index.js",
   "bin": {
-    "saintcloud": "./lib/index.js"
+    "saintcloud": "./lib/cli.js"
   },
   "keywords": [
     "google",
